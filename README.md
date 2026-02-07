@@ -10,7 +10,7 @@ Focused on Software Architecture and Full Stack Development.
 - **Languages:** JavaScript, TypeScript, Java, Python.
 - **Backend:** Node.js, Express.
 - **Frontend:** Angular, Bootstrap, HTML5, CSS3.
-- **Databases:** MySQL (TiDB), SQL Server, MongoDB.
+- **Databases:** MySQL, SQL Server, MongoDB.
 - **Tools:** Postman, Swagger, Figma.
 
 
@@ -20,4 +20,4 @@ Focused on Software Architecture and Full Stack Development.
 ### 📫 Contact Me
 
 - **LinkedIn:** linkedin.com/in/juancarlos-on/
-- **Email:** orozcojuanc27@gmail.com [cite: 51]
+- **Email:** orozcojuanc27@gmail.com
