@@ -1,16 +1,23 @@
-## Hi there 👋
+# Juan Carlos Orozco Nieto 👋
 
-<!--
-**NotJcao17/NotJcao17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student at Universidad La Salle Bajío.
+Focused on Software Architecture and Full Stack Development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Stack
+
+- **Languages:** JavaScript, TypeScript, Java, Python.
+- **Backend:** Node.js, Express.
+- **Frontend:** Angular, Bootstrap, HTML5, CSS3.
+- **Databases:** MySQL (TiDB), SQL Server, MongoDB.
+- **Tools:** Postman, Swagger, Figma.
+
+
+---
+
+
+### 📫 Contact Me
+
+- **LinkedIn:** linkedin.com/in/juancarlos-on/
+- **Email:** orozcojuanc27@gmail.com [cite: 51]
