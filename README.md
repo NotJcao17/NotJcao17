@@ -9,7 +9,7 @@ Focused on Software Architecture and Full Stack Development.
 
 - **Languages:** JavaScript, TypeScript, Java, Python.
 - **Backend:** Node.js, Express.
-- **Frontend:** Angular, Bootstrap, HTML5, CSS3.
+- **Frontend:** Angular, Bootstrap, Next.js, HTML5, CSS3.
 - **Databases:** MySQL, SQL Server, MongoDB.
 - **Tools:** Postman, Swagger, Figma.
 
