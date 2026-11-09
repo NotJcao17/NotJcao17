@@ -4,9 +4,7 @@
 
 **Software Engineering student at Universidad La Salle Bajío · Full Stack Developer**
 
-I build products end to end, from the database to the last animation, and ship them to real users:
-a music player with its own website, the voting system a school uses in its cultural contests, an
-inventory app for a small business and a few hackathon projects.
+I like to build things. You can see some of them below.
 
 <a href="https://www.linkedin.com/in/juancarlos-on/"><img src="https://img.shields.io/badge/LinkedIn-juancarlos--on-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:orozcojuanc27@gmail.com"><img src="https://img.shields.io/badge/Email-orozcojuanc27%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
